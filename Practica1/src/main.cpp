@@ -17,7 +17,7 @@
 
 using namespace std;
 
-
+//PUTA BASURA
 #define PI 3.14159265
 
 const GLint WIDTH = 800, HEIGHT = 600;
